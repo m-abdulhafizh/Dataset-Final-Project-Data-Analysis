@@ -1,6 +1,6 @@
 # Dataset-Final-Project-MySkill
 
-Data ini yang saya gunakan untuk melakukan analisis data dengan menggunakan SQL, Python, dan juga Visualisasi data menggunakan Google Data Studio/Looker Studio pada Final Project Bootcamp Data Analysis di <a href='https://myskill.id'>MySkill</a>. Data yang digunakan adalah data yang berasal dari Kaggle: <a href='https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset'>Pakistan's Largest E-Commerce Dataset</a> dengan beberapa perubahan. Harga yang tertera sudah dikonversi 1 Rupee sama dengan Rp 58.
+Data ini yang saya gunakan untuk melakukan analisis data dengan menggunakan SQL, Python, dan juga Visualisasi data menggunakan Google Data Studio/Looker Studio pada Final Project Bootcamp Data Analysis di <a href='https://myskill.id'>MySkill.id</a>. Data yang digunakan adalah data yang berasal dari Kaggle: <a href='https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset'>Pakistan's Largest E-Commerce Dataset</a> dengan beberapa perubahan. Harga yang tertera sudah dikonversi 1 Rupee sama dengan Rp 58.
 
 Dataset yang akan digunakan adalah order_detail, sku_detail, customer_detail, dan payment_detail.
 <br>Mengenai penjelasan dataset adalah sebagai berikut:
